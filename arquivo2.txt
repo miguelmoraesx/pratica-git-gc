@@ -1,1 +1,2 @@
 Arquivo inicial 2
+Alteração realizada diretamente na branch main pelo GitHub.
