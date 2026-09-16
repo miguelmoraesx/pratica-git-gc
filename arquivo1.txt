@@ -1,1 +1,2 @@
 Arquivo inicial 1
+Alteração realizada na branch feature-atividade.
