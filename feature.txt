@@ -1,1 +1,2 @@
 Arquivo criado na branch feature-atividade
+Nova alteração realizada localmente na feature-atividade.
